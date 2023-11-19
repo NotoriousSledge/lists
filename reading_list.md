@@ -13,15 +13,15 @@
 
 | Author                  | Book              | Status             |
 | ----------------------- | ----------------- | ------------------ |
-| Bestäm Dig              | Pelle Tornell     | :heavy_check_mark: |
-| Dagon                   | H.P. Lovecraft    | :heavy_check_mark: |
-| The Lurking Fear        | H.P. Lovecraft    | :heavy_check_mark: |
-| Call of Cthulu          | H.P. Lovecraft    | :white_check_mark: |
-| The Colour out of Space | H.P. Lovecraft    | :white_check_mark: |
-| American Psycho         | Bret Easton Ellis | :white_check_mark: |
-| Based on True Story     | Norm MacDonald    | :white_check_mark: |
-| The Passenger           | Cormac McCarthy   | :white_check_mark: |
-| The Castle              | Franz Kafka       | :white_check_mark: |
-| The Idiot               | Fyodor Dostoevsky | :white_check_mark: |
-| Dark Matter             | Blake Crouch      | :white_check_mark: |
-| Anna Karenina           | Leo Tolstoy       | :white_check_mark: |
+| Bestäm Dig              | Pelle Tornell     | :white_check_mark: |
+| Dagon                   | H.P. Lovecraft    | :white_check_mark: |
+| The Lurking Fear        | H.P. Lovecraft    | :white_check_mark: |
+| Call of Cthulu          | H.P. Lovecraft    | :white_square:     |
+| The Colour out of Space | H.P. Lovecraft    | :white_square:     |
+| American Psycho         | Bret Easton Ellis | :white_square:     |
+| Based on True Story     | Norm MacDonald    | :white_square:     |
+| The Passenger           | Cormac McCarthy   | :white_square:     |
+| The Castle              | Franz Kafka       | :white_square:     |
+| The Idiot               | Fyodor Dostoevsky | :white_square:     |
+| Dark Matter             | Blake Crouch      | :white_square:     |
+| Anna Karenina           | Leo Tolstoy       | :white_square:     |
