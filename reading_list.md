@@ -13,15 +13,15 @@
 
 | Author                  | Book              | Status |
 | ----------------------- | ----------------- | ------ |
-| Bestäm Dig              | Pelle Tornell     | [x]    |
-| Dagon                   | H.P. Lovecraft    | [x]    |
-| The Lurking Fear        | H.P. Lovecraft    | [x]    |
-| Call of Cthulu          | H.P. Lovecraft    | []     |
-| The Colour out of Space | H.P. Lovecraft    | []     |
-| American Psycho         | Bret Easton Ellis | []     |
-| Based on True Story     | Norm MacDonald    | []     |
-| The Passenger           | Cormac McCarthy   | []     |
-| The Castle              | Franz Kafka       | []     |
-| The Idiot               | Fyodor Dostoevsky | []     |
-| Dark Matter             | Blake Crouch      | []     |
-| Anna Karenina           | Leo Tolstoy       | []     |
+| Bestäm Dig              | Pelle Tornell     | -[x]   |
+| Dagon                   | H.P. Lovecraft    | -[x]   |
+| The Lurking Fear        | H.P. Lovecraft    | -[x]   |
+| Call of Cthulu          | H.P. Lovecraft    | -[]    |
+| The Colour out of Space | H.P. Lovecraft    | -[]    |
+| American Psycho         | Bret Easton Ellis | -[]    |
+| Based on True Story     | Norm MacDonald    | -[]    |
+| The Passenger           | Cormac McCarthy   | -[]    |
+| The Castle              | Franz Kafka       | -[]    |
+| The Idiot               | Fyodor Dostoevsky | -[]    |
+| Dark Matter             | Blake Crouch      | -[]    |
+| Anna Karenina           | Leo Tolstoy       | -[]    |
