@@ -20,6 +20,7 @@
 | The Colour out of Space | H.P. Lovecraft    | :white_square_button: |
 | American Psycho         | Bret Easton Ellis | :white_square_button: |
 | Based on True Story     | Norm MacDonald    | :white_square_button: |
+| Mere Christianity       | C.S. Lewis        | :white_square_button: |
 | The Passenger           | Cormac McCarthy   | :white_square_button: |
 | The Castle              | Franz Kafka       | :white_square_button: |
 | The Idiot               | Fyodor Dostoevsky | :white_square_button: |
