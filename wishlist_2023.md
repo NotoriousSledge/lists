@@ -7,7 +7,11 @@
 - God lukt (Gillar Citrus liknande)
 - Ny SSD för Lenovo Legion Y720
 - Nalle Puh Hoodie
+- [Biggie T-Shirt](https://rappersmerch.com/product/east-coast-icon-biggie-smalls-pic-collage-t-shirt/)
 - Kontorsinredning (båda hemma och på jobbet)
 - Mysiga kläder
-- [Biggie T-Shirt](https://rappersmerch.com/product/east-coast-icon-biggie-smalls-pic-collage-t-shirt/)
+- Kontorsstol
+- Kaffemugg till jobbet
+- Upplevelse
+- Midjeväska
 - Sällskapsspel
